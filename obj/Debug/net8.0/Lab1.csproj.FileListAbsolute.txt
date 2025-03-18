@@ -12,3 +12,4 @@ C:\Нужные папки\уп\лабы\LR1\Lab1\obj\Debug\net8.0\refint\Lab1.d
 C:\Нужные папки\уп\лабы\LR1\Lab1\obj\Debug\net8.0\Lab1.pdb
 C:\Нужные папки\уп\лабы\LR1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
 C:\Нужные папки\уп\лабы\LR1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
+C:\Нужные папки\уп\лабы\LR1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json

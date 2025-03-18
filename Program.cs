@@ -23,17 +23,11 @@ class Program
 {
     static void Main()
     {
-        Adres adres = new Adres("Москва", "Ленина", 10);
+        Adres adres = new Adres("Полоцк", "Зыгина", 10);
+        Adres adres1 = new Adres("Новополоцк", "Денисова", 13);
         adres.ShowAdres();
+        adres1.ShowAdres();
 
         Console.ReadLine();
     }
 }
-
-
-
-
-
-
-
-// CBO
